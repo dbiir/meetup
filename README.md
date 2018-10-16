@@ -13,6 +13,7 @@ The meetup mainly consists of three sessions:
 ## Organizing Committee
 The committee is responsible for organizing the meetup and serving everybody, including updating the website, booking a conference room, hosting the meetup, etc.
 
-Members:
+Members (names are arranged in alphabetical order):
 + Guodong Jin (@ray6080)
 + Han Han
++ Xueran Han
