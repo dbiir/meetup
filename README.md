@@ -15,3 +15,4 @@ The committee is responsible for organizing the meetup and serving everybody, in
 
 Members:
 + Guodong Jin (@ray6080)
++ Han Han
