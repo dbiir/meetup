@@ -14,6 +14,7 @@ The meetup mainly consists of three sessions:
 The committee is responsible for organizing the meetup and serving everybody, including updating the website, booking a conference room, hosting the meetup, etc.
 
 Members (names are arranged in alphabetical order):
++ Bofang Li
 + Guodong Jin (@ray6080)
 + Han Han (@hagen666)
 + Xueran Han (@lemontreehxr)
