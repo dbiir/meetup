@@ -1,7 +1,7 @@
 # Weekly Meetup
 
 ## Introduction to Weekly Meetup
-Weekly Meetup is organized by a group of graduate students of DBIIR Lab at RUC(Renmin University of China).
+Weekly Meetup is organized by a group of graduate students at DBIIR Lab, RUC(Renmin University of China).
 
 The meetup is for one simple goal -- share our researching interests and improve our researching abilities together.
 
