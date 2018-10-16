@@ -11,7 +11,7 @@ The meetup mainly consists of three sessions:
 3. **Invited Talks**. Occasionally, researchers outside the group is invited to give a talk on recent researches.
 
 ## Organizing Committee
-The committee is responsible for organizing the meetup and serving everybody, including updating website, booking a conference room, hosting the meetup, etc.
+The committee is responsible for organizing the meetup and serving everybody, including updating the website, booking a conference room, hosting the meetup, etc.
 
 Members:
 + Guodong Jin (@ray6080)
