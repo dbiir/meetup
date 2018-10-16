@@ -15,5 +15,5 @@ The committee is responsible for organizing the meetup and serving everybody, in
 
 Members (names are arranged in alphabetical order):
 + Guodong Jin (@ray6080)
-+ Han Han
++ Han Han (@hagen666)
 + Xueran Han
