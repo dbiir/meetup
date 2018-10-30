@@ -1,4 +1,4 @@
-# Weekly Meetup
+# [Weekly Meetup](http://dbiir.github.io/meetup/)
 
 ## Introduction to Weekly Meetup
 Weekly Meetup is organized by a group of graduate students at DBIIR Lab, RUC(Renmin University of China).
