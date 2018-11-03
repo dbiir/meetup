@@ -13,6 +13,6 @@ categories: Meetup
 * **Host** : Guodong Jin
 * **Brain Storm** : How to retrieval papars related to a certain topic
 
-Related PPT will be released soon.
+Related PPT(http://iir.ruc.edu.cn/~meetup/meetup_2018_11_03.pptx).
 
 
