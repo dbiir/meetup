@@ -4,8 +4,6 @@ title:  "Weekly Meetup 0"
 date:   2018-11-02 20:00:00 +0800
 categories: Meetup
 ---
-
-# Weekly Meetup 0
 **Invited Talk: Word embeddings and their research directions** [Slides](http://iir.ruc.edu.cn/~meetup/meetup_2018_11_03.pptx)
 
 **[Bofang Li](http://bofang.stat-nba.com)**, hosted by [Guodong Jin](http://iir.ruc.edu.cn/~guodong/)
