@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Weekly Meetup 0"
-date:   2018-11-02 20:00:00 +0800
+date:   2018-11-01 20:00:00 +0800
 categories: Meetup
 ---
 **Invited Talk: Word embeddings and their research directions** [Slides](http://iir.ruc.edu.cn/~meetup/meetup_2018_11_03.pptx)
