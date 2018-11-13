@@ -21,7 +21,7 @@ The committee is responsible for organizing the meetup and serving everybody, in
 
 Committee Members (names are arranged in **alphabetical order**):
 + [Bofang Li](http://bofang.stat-nba.com)
-+ [Cheng Chen](http://iir.ruc.edu.cn/~chenc/) ()
++ [Cheng Chen](http://iir.ruc.edu.cn/~chenc/) ([@withchencheng](https://github.com/withchencheng))
 + [Guodong Jin](http://iir.ruc.edu.cn/~guodong/index.html) ([@ray6080](https://github.com/ray6080))
 + [Han Han](http://iir.ruc.edu.cn/~hanh/) ([@hagen666](https://github.com/hagen666))
 + [Xueran Han](http://iir.ruc.edu.cn/~hanxr/) ([@lemontreehxr](https://github.com/lemontreehxr))
