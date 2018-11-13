@@ -4,7 +4,7 @@ title:  "Weekly Meetup 1"
 date:   2018-11-08 20:00:00 +0800
 categories: Meetup
 ---
-**Invited Talk: 浅谈科研训练对项目实践的指导作用 -- 以“现代诗歌生成”问题为例
+**Invited Talk: 浅谈科研训练对项目实践的指导作用 -- 以“现代诗歌生成”问题为例**
 
 **[Jun Chen](http://iir.ruc.edu.cn/~chenj/index.html)**, hosted by [Han Han](http://iir.ruc.edu.cn/~hanh/)
 
