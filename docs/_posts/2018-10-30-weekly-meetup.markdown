@@ -5,6 +5,7 @@ date:   2018-10-30 10:20:36 +0800
 categories: Introduction
 ---
 Welcome to join our Wechat Group
+
 <img src="/meetup/images/wechat_group.jpg" width="256" height="256" align="center">
 
 ## Introduction to Weekly Meetup

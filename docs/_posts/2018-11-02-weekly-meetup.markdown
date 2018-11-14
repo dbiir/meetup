@@ -17,5 +17,7 @@ This talk introduces the basic ideas of training word embedding models. It also 
 ![Weekly Meetup](/meetup/images/poster-2018-11-03.jpg)
 
 <hr/>
+
 Welcome to join our Wechat Group
+
 <img src="/meetup/images/wechat_group.jpg" width="256" height="256" align="center">

@@ -16,5 +16,7 @@ categories: Meetup
 ![Weekly Meetup](/meetup/images/poster-2018-11-09.jpg)
 
 <hr/>
+
 Welcome to join our Wechat Group
+
 <img src="/meetup/images/wechat_group.jpg" width="256" height="256" align="center">
