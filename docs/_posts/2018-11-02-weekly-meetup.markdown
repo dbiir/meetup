@@ -5,10 +5,6 @@ date:   2018-11-01 20:00:00 +0800
 categories: Meetup
 ---
 
-Welcome to join our Wechat Group
-
-![Wechat Group](/meetup/images/wechat_group.jpg)
-
 **Invited Talk: Word embeddings and their research directions** [Slides](http://iir.ruc.edu.cn/~meetup/meetup_2018_11_03.pptx)
 
 **[Bofang Li](http://bofang.stat-nba.com)**, hosted by [Guodong Jin](http://iir.ruc.edu.cn/~guodong/)
@@ -19,3 +15,7 @@ This talk introduces the basic ideas of training word embedding models. It also 
 **Brain Storm: How to retrieve papars related to a certain topic**
 
 ![Weekly Meetup](/meetup/images/poster-2018-11-03.jpg)
+
+<hr/>
+Welcome to join our Wechat Group
+<img src="/meetup/images/wechat_group.jpg" width="256" height="256" align="center">

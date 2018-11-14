@@ -4,7 +4,8 @@ title: About
 permalink: /about/
 ---
 
-# Weekly Meetup
+Welcome to join our Wechat Group
+<img src="/meetup/images/wechat_group.jpg" width="256" height="256" align="center">
 
 ## Introduction to Weekly Meetup
 Weekly Meetup is organized by a group of graduate students at [DBIIR Lab](http://iir.ruc.edu.cn), RUC(Renmin University of China).

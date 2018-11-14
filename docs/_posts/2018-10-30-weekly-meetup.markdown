@@ -5,8 +5,7 @@ date:   2018-10-30 10:20:36 +0800
 categories: Introduction
 ---
 Welcome to join our Wechat Group
-
-![Wechat Group](/meetup/images/wechat_group.jpg)
+<img src="/meetup/images/wechat_group.jpg" width="256" height="256" align="center">
 
 ## Introduction to Weekly Meetup
 Weekly Meetup is organized by a group of graduate students at [DBIIR Lab](http://iir.ruc.edu.cn), RUC(Renmin University of China).
