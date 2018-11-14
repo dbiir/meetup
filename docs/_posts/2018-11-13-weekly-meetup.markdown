@@ -6,7 +6,7 @@ categories: Meetup
 ---
 
 <center>
-<img src="/meetup/images/wechat_group.jpg" width=256 height=256>
+<img src="/meetup/images/wechat_group.jpg" width="256" height="256">
 Welcome to join our Wechat Group
 </center>
 
