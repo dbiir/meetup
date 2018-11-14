@@ -5,9 +5,10 @@ date:   2018-11-15 20:00:00 +0800
 categories: Meetup
 ---
 
+<center>
+<img src="/meetup/images/wechat_group.jpg" width=256 height=256>
 Welcome to join our Wechat Group
-
-![Wechat Group](/meetup/images/wechat_group.jpg)
+</center>
 
 **Invited Talk: Cost-Effective Data Annotation using Game-Based Crowdsourcing**
 
