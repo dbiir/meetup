@@ -30,6 +30,10 @@ theme: minima
 plugins:
   - jekyll-feed
 
+  
+sidebar: true                           # 是否开启侧边栏.
+sidebar-about-description: "扫描二维码入群"
+sidebar-avatar: images/wechat_group.jpg
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
