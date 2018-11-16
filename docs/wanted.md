@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Volunteers Wanted
+title: Presentation Wanted
 permalink: /wanted/
 ---
 
@@ -8,7 +8,7 @@ Welcome to join our Wechat Group
 
 <img src="/meetup/images/wechat_group.jpg" width="256" height="256" align="center">
 
-## Volunteers Wanted
+## Presentation Wanted
 我们的Weekly Meetup面向所有人招募演讲报告啦！
 
 报告围绕一个大家实际遇到的问题（来自于论文或者项目或者编程），分享发现问题和解决问题的经验。报告的内容可以是下列的一种：
