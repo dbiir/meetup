@@ -23,4 +23,4 @@ Welcome to join our Wechat Group
 
 我们会在学期结束后会有精美小礼品赠送，欢迎大家积极参与！
 
-参与的同学请用简短的几句话介绍报告的题目和内容，以及期望报告的周次（我们的Meetup每周四晚上举行），并将以上内容发送至 [至 [taoyouxian@ruc.edu.cn](ma](n](mailto:taoyouxian@ruc.edu.cn)。邮件)。邮件标题请注明"Weekly Meetup"。
+参与的同学请用简短的几句话介绍报告的题目和内容，以及期望报告的周次（我们的Meetup每周四晚上举行），并将以上内容发送至[taoyouxian@ruc.edu.cn](mailto:taoyouxian@ruc.edu.cn)。邮件标题请注明"Weekly Meetup"。
