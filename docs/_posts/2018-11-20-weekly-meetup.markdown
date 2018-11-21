@@ -13,7 +13,7 @@ categories: Meetup
 
 **BrainStorm: 个人知识管理的方法与工具**
 
-![Weekly Meetup](/meetup/images/poster-2018-11-22.jpg)
+![Weekly Meetup](/meetup/images/poster-2018-11-22_2.jpg)
 
 <hr/>
 
