@@ -5,7 +5,7 @@ date:   2018-11-22 20:00:00 +0800
 categories: Meetup
 ---
 
-**Invited Talk: 大数据与异构计算**
+**Invited Talk: 大数据与异构计算** [Slides](http://iir.ruc.edu.cn/~meetup/meetup_2018_11_22.pptx)
 
 **[Feng Zhang](http://iir.ruc.edu.cn/~zhangf/)**, hosted by [Youxian Tao](http://iir.ruc.edu.cn/~taoyx/)
 
