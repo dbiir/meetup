@@ -5,7 +5,7 @@ date:   2018-12-06 20:00:00 +0800
 categories: Meetup
 ---
 
-**Invited Talk: 基于RAFT协议的异构分布式系统自适应优化**
+**Invited Talk: 基于RAFT协议的异构分布式系统自适应优化** [Slides](http://iir.ruc.edu.cn/~meetup/meetup_2018_12_06.pptx)
 
 ** Yangyang Wang **, hosted by [Cheng Chen](http://iir.ruc.edu.cn/~chenc/)
 
